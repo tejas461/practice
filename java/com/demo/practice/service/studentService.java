@@ -4,5 +4,6 @@ public class studentService {
 	
 	
 	private int name;
-
+	
+	private int i=10;
 }
